@@ -1,4 +1,6 @@
 # 💻 Tech Stack:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jishnu-Prasad888&show_icons=true&theme=github_dark&hide_border=true)
+
 
 ## 🧠 Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
