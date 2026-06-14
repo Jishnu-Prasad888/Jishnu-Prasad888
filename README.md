@@ -2,9 +2,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jishnu-Prasad888&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jishnu-Prasad888&layout=compact&theme=github_dark&hide_border=true)
-
-
 # 💻 Tech Stack:
 
 ## 🧠 Languages
