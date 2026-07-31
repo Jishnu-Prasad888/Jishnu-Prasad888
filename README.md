@@ -1,54 +1,71 @@
-### 👋 Hey there Jishnu here
+#### 👋 Hey there, I'm Jishnu
 
-[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=Jishnu-Prasad888&showProfilePic=false)](https://www.readmecodegen.com/custom-github-card-generator)
+I'm a developer with a passion for kettle-brewed coffee and building great software. My interests span full-stack web development, AI/ML, distributed systems, and scalable backend engineering. I'm constantly building, learning, and exploring new technologies.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jishnu-Prasad888&show_icons=true&theme=github_dark&hide_border=true)
-# 💻 Tech Stack:
+Feel free to connect with me or check out my work.
 
-## 🧠 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-%23E16737.svg?style=for-the-badge&logo=mathworks&logoColor=white)
+**Portfolio:** https://jishnu-prasad.vercel.app/
 
----
+<div align="left">
+  <a href="https://www.linkedin.com/in/jishnu-prasad-ba90a9328/">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=25" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:thisisjishnuprasad888@gmail.com">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=gmail&size=25" alt="Gmail" />
+  </a>
+</div>
 
-## ⚙️ Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
+<br>
 
----
+<p align="center">
+  <img src="https://www.readmecodegen.com/api/github-stats/svg?username=Jishnu-Prasad888&showProfilePic=true" alt="GitHub Stats" />
+</p>
 
-## 🛠 Tools & Technologies
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-%23009688.svg?style=for-the-badge&logo=nmap&logoColor=white)
+### 💻 Tech Stack
 
----
+##### 🧠 Languages
 
-## 🧪 Databases & AI Systems
-![ChromaDB](https://img.shields.io/badge/ChromaDB-%23000000.svg?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge)
-![LLaMA](https://img.shields.io/badge/LLaMA_3.2-%23000000.svg?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-%234285F4.svg?style=for-the-badge)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,go,cpp,css,graphql,matlab" />
+</p>
 
-----
+##### ⚙️ Frameworks & Libraries
 
-## 🧩 Experience & Domains
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,fastapi,react,nextjs,tailwind,tensorflow,tauri,electron,opencv" />
+</p>
 
-![Backend Engineering](https://img.shields.io/badge/Backend_Engineering-%23007ACC.svg?style=for-the-badge&logo=serverless&logoColor=white)
-![Full--Stack Development](https://img.shields.io/badge/Full--Stack_Development-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Systems Engineering](https://img.shields.io/badge/Systems_Engineering-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
+##### 🛠 Tools & Technologies
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,arduino,postman,raspberrypi" />
+</p>
+
+##### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,sqlite" />
+</p>
+
+##### ☁️ DevOps & Cloud
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gcp,githubactions,grafana,kafka,nginx,cloudflare" />
+</p>
+
+##### AI & LLM
+
+- Agentic AI
+- Retrieval-Augmented Generation (RAG)
+- LLM Applications
+- AI Workflow Automation
+
+### 🧩 Experience
+
+<p>
+  <img src="https://img.shields.io/badge/Backend_Engineering-007ACC?style=for-the-badge&logo=serverless&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full--Stack_Development-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Systems_Engineering-000000?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
